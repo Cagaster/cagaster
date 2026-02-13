@@ -170,7 +170,7 @@ A junior role where I can grow within a professional environment and contribute 
 Because I enjoy building products that users directly interact with every day.
 
 ### Do you prefer frontend or backend?
-I enjoy both, but I particularly like designing clean backend architectures and building responsive frontends.
+I enjoy both ; I particularly like designing clean backend architectures and building clean and user-friendly frontends.
 
 ---
 
