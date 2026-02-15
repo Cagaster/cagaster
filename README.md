@@ -134,6 +134,8 @@ At the same time, I actively build personal projects to sharpen my skills and de
 
 [![Gilles's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cagaster&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/Cagaster)
 
+![](profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 ---
